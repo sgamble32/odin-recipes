@@ -1,2 +1,3 @@
 # odin-recipes
 Foundations - Recipes for The Odin Project
+The scope of this project is to create a simple web page detailing my favorite recipes. I will attempt to create at least three separate web pages that detail a step by step recipe, including pictures and humor when able. At the end of this project I hope to understand the fundamental elements in making web pages, including setting up absolute and relative links, linking pictures inside of my page, and overall building something simple and clean.
